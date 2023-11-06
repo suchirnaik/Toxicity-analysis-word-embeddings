@@ -12,9 +12,6 @@ The dataset I'm using for this project is the same toxic comment dataset employe
 
 For Word2Vec tasks, I will be focusing on the toxic label (toxic=1 or 0).
 
-## Final Report
-Just as I've done in previous assignments, I will be documenting my observations and results in a final report. To maintain transparency in my thought process, I'll be updating this report incrementally as I progress through the project.
-
 ## Word2Vec Tasks
 The primary objective of this project is to delve into Word2Vec embeddings and explore their practical applications. It's important to note that I'll be using pretrained embeddings and not training my own Word2Vec models.
 
